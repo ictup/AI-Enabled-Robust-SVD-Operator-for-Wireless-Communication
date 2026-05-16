@@ -1,5 +1,5 @@
 # LoMACS-SVDNet: Orthogonality without Decompositions
-第四届“华为杯”无线通信算法大赛
+
 > **AI-Enabled Robust SVD Operator for Wireless Communication**  
 > End-to-end network that predicts `(U, S, V)` for large MIMO channels **without any QR/SVD/EVD/inversion** inside the network.  
 > Final score aligns with the official metric: `Score = 100 × AE + MACs`.
